@@ -194,13 +194,13 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
                   <div className="col-span-11 flex items-center"></div>
                   <div className="col-span-1 flex items-center justify-end">
                     <a
-                      href="https://github.com/slowy07"
+                      href="https://github.com/rafiqmyura"
                       className="flex items-center justify-center gap-1.5 pl-4 border-l border-[#101419] py-1.5 hover:text-white transition-colors"
                       target="_blank"
                       rel="noreferrer"
                       aria-label="Follow me on github"
                     >
-                      <span className="hidden">Slowy07</span>
+                      <span className="hidden">rafiqmyura</span>
                       <AiOutlineGithub className="text-xl" />
                     </a>
                   </div>
@@ -236,7 +236,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
             </div>
           </div>
           <div className="flex items-center justify-end gap-x-2">
-            <p className="font-light text-sm">UTF-8</p>
+            <p className="font-light text-sm">GMT +7</p>
 
             <div
               className="flex items-center bg-[#1f2328] h-[30px]"
@@ -244,7 +244,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
               rel="noreferrer"
               aria-label="Follow me on github"
             >
-              <p className="px-2 font-light text-sm">ruff_lsp</p>
+              <p className="px-2 font-light text-sm">pull-request</p>
               <BsGearFill className="w-[30px] h-[30px] p-2 bg-[#69b373] text-[#d0d3d8]" />
             </div>
             <div
@@ -253,17 +253,17 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
               rel="noreferrer"
               aria-label="Follow me on github"
             >
-              <p className="px-2 font-light text-sm">slowy07-site</p>
+              <p className="px-2 font-light text-sm">vercel-app myura</p>
               <AiOutlineFolderOpen className="w-[30px] h-[30px] p-2 bg-[#cbced3] text-[#1f2328]" />
             </div>
             <a
               className="flex items-center bg-[#1f2328] h-[30px] hover:text-white transition-colors group"
-              href="https://github.com/slowy07"
+              href="https://github.com/rafiqmyura"
               target="_blank"
               rel="noreferrer"
               aria-label="Follow me on github"
             >
-              <p className="px-2 font-light text-sm">slowy-07</p>
+              <p className="px-2 font-light text-sm">rafiq myura</p>
               <AiOutlineGithub className="w-[30px] h-[30px] p-2 bg-[#c296eb] text-[#d0d3d8] group-hover:text-white transition-colors" />
             </a>
           </div>
