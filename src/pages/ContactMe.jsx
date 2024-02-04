@@ -219,14 +219,14 @@ function Contacts() {
               rel="noreferrer"
             >
               <GrLinkedinOption />
-              <span>Rafiq Al Hafizh</span>
+              <span>LinkedIn</span>
             </a>
             <a
               href="mailto:rafiqalhafizh12@gmail.com"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
             >
               <MdEmail />
-              <span>rafiqalhafizh12@gmail.com</span>
+              <span>Mail Me</span>
             </a>
           </Popover.Panel>
         </Transition>
