@@ -13,9 +13,9 @@ export default function Home() {
       <div className="flex items-center justify-center h-full max-w-7xl mx-auto">
         <div className="lg:w-1/2 w-full mx-10 lg:ml-10 flex flex-col justify-between h-[80%] lg:h-auto">
           <div className="mb-20">
-            <p className="text-white text-lg">Wello, i am</p>
+            <p className="text-white text-lg">Hello, i am</p>
             <h1 className="text-white lg:text-6xl md:text-5xl text-5xl">
-              Arfy Slowy
+              Rafiq Al Hafizh Adha
             </h1>
 
             <h2 className=" text-[#E99287] lg:text-3xl md:text-2xl text-xl flex items-center gap-3">
@@ -30,13 +30,13 @@ export default function Home() {
                 }}
                 onInit={(typewriter) => {
                   typewriter
-                    .typeString(`print("Software Engineer")`)
+                    .typeString(`print("Web Developer / UIX Design")`)
                     .pauseFor(1000)
                     .deleteAll()
-                    .typeString(`Love about quantum computing`)
+                    .typeString(`Digital Marketing`)
                     .pauseFor(500)
                     .deleteAll()
-                    .typeString(`AI Researcher`)
+                    .typeString(`Learn Machine Learning`)
                     .start();
                 }}
               />
@@ -53,12 +53,12 @@ export default function Home() {
               <span className="text-[#E99287]">str</span>{" "}
               <span className="text-white">=</span>{" "}
               <a
-                href="https://github.com/slowy07"
+                href="https://github.com/rafiqmyura"
                 className="text-[#E99287]"
                 target="_blank"
                 rel="noreferrer"
               >
-                "https://github.com/slowy07"
+                "https://github.com/rafiqmyura"
               </a>
             </p>
           </div>

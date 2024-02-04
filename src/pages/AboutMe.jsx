@@ -85,24 +85,18 @@ function MyBio({ closeBio }) {
       <div className="overflow-y-auto scrollbar-thin h-full">
         <SyntaxHighlighter language="python" style={atomOneDark} showLineNumbers>
       {
-`name: str = "arfy slowy"
+`name: str = "Rafiq Al Hafizh Adha"
 hobbies: list = [
   "Coding",
-  "Dota",
-  "Film",
+  "Games",
+  "Reading",
 ]
 
 volunteering: dict = {
-  "Bellshade" : "owner 1st indonesia github organization about basic, advance and expret programming course",
-  "Intel"     : """contributor and become volunteer on Data Flow Facilitator for Machine Learning, 
-                  its project to makes it easy to generate datasets, train and use machine learning models, 
-                  and integrate machine learning into new or existing applications. 
-                  It provides APIs for dataset generation, storage, and model definition.""",
-  "Microsoft" : """volunteer on a set of libraries for analyzing HotSpot Java garbage collection (GC) 
-                  log files. The toolkit parses GC log files into discrete events and provides an API 
-                  for aggregating data from those events. This allows the user to create arbitrary and 
-                  complex analyses of the state of managed memory in the Java Virtual Machine (JVM) 
-                  represented by the garbage collection log."""
+  "Five Element Zone"   : "Web Developer at Non Profit Organization for African Children's Charities",
+  "Web Program Unpas"   : """Become one of the contributors in the English club, and carry out A/B application tests for project showcases. 
+                          Apart from that, I am an active member of the WPU community (Unpas Web Program)""",
+  "Future Tech Asahan"  : """  """.
 }
             `
             

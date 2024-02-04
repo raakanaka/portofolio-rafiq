@@ -46,7 +46,7 @@ export default function Layout({ children, setIsNavbar, isNavbar }) {
       <div className="custom-size bg-[#101419]/[99%] rounded-lg flex justify-between flex-col overflow-hidden">
         <header className="grid grid-cols-12  text-[#cbced3] items-center">
           <div className="lg:col-span-2 col-span-11 bg-[#101419] lg:border-r border-[#101419] py-4 pl-4">
-            <span>Arfy Slowy</span>
+            <span>Raa.Kanaka</span>
           </div>
 
           {/* Navbar  Desktop*/}
