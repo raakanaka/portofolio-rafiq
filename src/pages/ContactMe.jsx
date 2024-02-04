@@ -213,20 +213,20 @@ function Contacts() {
         >
           <Popover.Panel className="p-4 w-full flex flex-col gap-1.5">
             <a
-              href="https://www.linkedin.com/in/arfy-slowy-151776218/"
+              href="https://www.linkedin.com/in/rafiq-alhafizh/"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
               target="_blank"
               rel="noreferrer"
             >
               <GrLinkedinOption />
-              <span>Arfy Slowy</span>
+              <span>Rafiq Al Hafizh</span>
             </a>
             <a
-              href="mailto:slowy.arfy@gmail.com"
+              href="mailto:rafiqalhafizh12@gmail.com"
               className="text-[#607B96] hover:text-white inline-flex items-center gap-2.5 transition-colors"
             >
               <MdEmail />
-              <span>slowy07.arfy@gmail.com</span>
+              <span>rafiqalhafizh12@gmail.com</span>
             </a>
           </Popover.Panel>
         </Transition>
