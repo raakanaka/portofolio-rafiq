@@ -4,24 +4,19 @@
       "gear": "Hardware / Computers",
       "gearList": [
         {
-          "item": "AMD Ryzen 9 5900x (16 Core), 64GB of RAM, RTX 3090, 3TB SSD, 1TB HDD",
-          "desc": "Mostly use for my work and game, hehehe",
-          "type": ["computer"]
+          "item": "Asus Vivobook 14 Series",
+          "desc": "I Like This Vivobook Workstation !",
+          "type": ["computer", "Workstation"]
         },
         {
-          "item": "Lenovo Thinkpad p15 workstation",
-          "desc": "Love thinkpad laptops !",
-          "type": ["computer", "thinkpad"]
-        },
-        {
-          "item": "Steelseries Apex 7",
+          "item": "Zifriend Mechanical Keyboard",
           "desc": "Actually i don't know about mechanical keyboard",
           "type": ["keyboard"]
         },
         {
-          "item": "Xtrfy M4 Wireless",
-          "desc": "If you have Trypophobia, don't buy it okay.",
-          "type": ["mouse", "logitech"]
+          "item": "Imperion Wireless",
+          "desc": "Very Cheap and Responsive Mouse.",
+          "type": ["mouse", "Imperion"]
         }
       ]
     },
@@ -29,8 +24,8 @@
       "gear": "Hardware / Monitors",
       "gearList": [
         {
-          "item": "Lenovo G34w-30 34'' VA",
-          "desc": "Hehehe, im still use Lenovo product",
+          "item": "Gigabytes G24F 24 Inc",
+          "desc": "Minitor very Good Color For Designer",
           "type": ["monitor", "external display"]
         }
       ]
@@ -39,9 +34,9 @@
       "gear": "Hardware / Audio",
       "gearList": [
         {
-          "item": "KZ ZAR",
-          "desc": "Actually i don't use Headset, not like to much",
-          "type": ["headset"]
+          "item": "MONSTER XKT08 WIRELESS",
+          "desc": "Cheap and Useeless hehe",
+          "type": ["TWS"]
         }
       ]
     },
@@ -49,13 +44,13 @@
       "gear": "Operating System",
       "gearList": [
         {
-         "item": "Linux from scratch",
-         "desc": "No use debian or arch, just LFS, yes, LFS",
+         "item": "Windows 11 Home",
+         "desc": "Design, Daily Work, and Analyst SEO",
          "type": ["OS"]
         },
         {
-          "item": "Windows 11",
-          "desc": "Dont't worry, im use only for game",
+          "item": "Ubuntu OS",
+          "desc": "Hehe, I Using Ubuntu for Python :D",
           "type": ["OS"]
         }
       ]
@@ -69,13 +64,8 @@
           "type": ["IDE"]
         },
         {
-          "item": "VIM (neovim)",
-          "desc": "A BLAZINGLY FAST text editor that i use when am on the terminal.",
-          "type": ["editor"]
-        },
-        {
-          "item": "Alacritty, Kitty",
-          "desc": "Blazing fast fast fast",
+          "item": "Windows Powershell",
+          "desc": "Responsibility and No Them",
           "type": ["terminal"]
         }
       ]
