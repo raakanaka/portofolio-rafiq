@@ -135,16 +135,26 @@ function Work({ closeWork }) {
         <SyntaxHighlighter language="python" style={atomOneDark} showLineNumbers>
       {
 `# work information
-profession: str = "Software Engineer"
+profession: str = "Junior Software Enginer"
 languages: list = [
   "Python",
-  "C++",
-  "C",
-  "Assembly",
-  "Rust",
-  "Zig",
+  "Jupyter Notebook",
+]
+profession: str = "Web Developer No Code"
+Toolkits: list = [
+  "Wordpress Developer",
+  "Framer",
+  "Wix",
+  "Breakdance",
 ]
 
+profession: str = "SEO Specialist"
+Tool Research: list = [
+  "Semrush",
+  "Rankmath SEO",
+  "Ahrefs",
+  
+]
 favorite_libs: list = [
   "Tensorflow",
   "Pytorch",
