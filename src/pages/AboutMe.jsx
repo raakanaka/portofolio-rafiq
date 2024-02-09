@@ -96,7 +96,7 @@ volunteering: dict = {
   "Five Element Zone"   : "Web Developer at Non Profit Organization for African Children's Charities",
   "Web Program Unpas"   : """Become one of the contributors in the English club, and carry out A/B application tests for project showcases. 
                           Apart from that, I am an active member of the WPU community (Unpas Web Program)""",
-  "Future Tech Asahan"  : """  """.
+  "Future Tech Asahan"  : """ A regional community for asahan, with a team of 4 people making it. Future Tech Asahan is a sharing community about developing information technology. """.
 }
             `
             
